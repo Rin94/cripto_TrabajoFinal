@@ -1,0 +1,381 @@
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.web.filters.CFilterChain] Running filter IdentificacionController.filteraccessControl()
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.ar.CActiveRecord] Identificacion.count()
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "db" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.CDbConnection] Opening DB connection
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `identificacion` `t`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.ar.CActiveRecord] Identificacion.findAll()
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `identificacion` `t` LIMIT 10
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:15 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column2.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.web.filters.CFilterChain] Running filter IdentificacionController.filteraccessControl()
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.ar.CActiveRecord] Identificacion.count()
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "db" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.CDbConnection] Opening DB connection
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `identificacion` `t`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.ar.CActiveRecord] Identificacion.findAll()
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `identificacion` `t` LIMIT 10
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column2.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.web.filters.CFilterChain] Running filter IdentificacionController.filteraccessControl()
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:21 [trace] [system.CModule] Loading "db" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (79)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.db.CDbConnection] Opening DB connection
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (79)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (79)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (79)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (106)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/consultar.php (28)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (106)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/consultar.php (60)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (106)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column2.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (106)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:22 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (306)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column2.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (106)
+2016/05/04 02:41:22 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (55)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column2.php (25)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (106)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/site/contact.php (14)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/site/contact.php (14)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (2)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (306)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+2016/05/04 02:41:23 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (55)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (76)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.web.filters.CFilterChain] Running filter IdentificacionController.filteraccessControl()
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.ar.CActiveRecord] Identificacion.count()
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "db" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `identificacion`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `identificacion` `t`
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.ar.CActiveRecord] Identificacion.findAll()
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `identificacion` `t` LIMIT 10
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/identificacion/index.php (23)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:28 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column2.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/IdentificacionController.php (158)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (2)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (306)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (38)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (38)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:29 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (78)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "log" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "request" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "urlManager" application component
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "themeManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (2)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "bootstrap" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "clientScript" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "assetManager" application component
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (306)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (50)
+in /Applications/MAMP/htdocs/componentes/protected/extensions/bootstrap/components/Bootstrap.php (81)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (3)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "user" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (38)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "session" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (38)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
+2016/05/04 02:41:30 [trace] [system.CModule] Loading "coreMessages" application component
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/main.php (78)
+in /Applications/MAMP/htdocs/componentes/protected/views/layouts/column1.php (9)
+in /Applications/MAMP/htdocs/componentes/protected/controllers/SiteController.php (36)
+in /Applications/MAMP/htdocs/componentes/index.php (18)
